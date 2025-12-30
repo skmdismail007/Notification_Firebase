@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657001087648",
+    "project_id": "fcmnoti-e5595",
+    "storage_bucket": "fcmnoti-e5595.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657001087648:android:48170ba37498b39464ffc5",
+        "android_client_info": {
+          "package_name": "com.kaanch001.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFABKZ82VG_ctMzuBV4kq8sjr9ixmeWWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
